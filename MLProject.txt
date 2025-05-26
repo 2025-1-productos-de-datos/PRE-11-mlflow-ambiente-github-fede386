@@ -1,7 +1,7 @@
 name: Proyecto de demostracion
 
 docker_env:
-    image:  ezapataq07/mlflow:example
+    image:  LX96PX-F4268ED1/mlflow:example
     build_context: .
 
 entry_points:
